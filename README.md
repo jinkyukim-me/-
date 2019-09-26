@@ -1,5 +1,5 @@
 # PyTorch Sentiment Analysis
-* Simple Sentiment Analysis
+* [Simple Sentiment Analysis](https://github.com/jinkyukim-me/Sentiment-analysis-pytorch/blob/master/Simple_Sentiment.ipynb)
 * Upgraded Sentiment Analysis
 
 ## Getting Started
