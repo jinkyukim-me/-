@@ -1,6 +1,7 @@
 # PyTorch Sentiment Analysis
 * [Simple Sentiment Analysis](https://github.com/jinkyukim-me/Sentiment-analysis-pytorch/blob/master/Simple_Sentiment.ipynb)
 * [Upgraded Sentiment Analysis](https://github.com/jinkyukim-me/Sentiment-analysis-pytorch/blob/master/Upgraded_Sentiment.ipynb)
+* [Convolutional_Sentiment Analysis](https://github.com/jinkyukim-me/Sentiment-analysis-pytorch/blob/master/Convolutional_Sentiment.ipynb)
 
 ## Getting Started
 
